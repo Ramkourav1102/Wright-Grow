@@ -930,12 +930,14 @@ input:checked + .slider:before {
 }
 
 .header-main .site-branding .img {
-  width: 10px;
-  height: 52px;
+  width: 75px;
+  height: 22px;
 }
 
 .header-main .site-branding .light-logo {
   display: none;
+  width: 75px;
+  height: 22x;
 }
 
 .header-main .header-action-items {
